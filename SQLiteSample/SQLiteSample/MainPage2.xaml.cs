@@ -10,7 +10,7 @@ namespace SQLiteSample
 
         public MainPage2()
         {
-            InitializeComponent();//
+            InitializeComponent();
         }
 
 
